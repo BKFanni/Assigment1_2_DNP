@@ -23,17 +23,41 @@
             <NavLink class="nav-link" href="CreatePost">
                 <span class="oi oi-plus" aria-hidden="true"></span> Create post
             </NavLink>
-            </div>
+        </div>
         <div class="nav-item px-3">
             <NavLink class="nav-link" href="ViewUsers">
                 <span class="oi oi-list" aria-hidden="true"></span> View users
             </NavLink>
         </div>
         <div class="nav-item px-3">
-                    <NavLink class="nav-link" href="ViewPosts">
-                        <span class="oi oi-list" aria-hidden="true"></span> View posts
-                    </NavLink>
-                </div>
+            <NavLink class="nav-link" href="ViewPosts">
+                <span class="oi oi-list" aria-hidden="true"></span> View posts
+            </NavLink>
+        </div>
+    </nav>
+</div>
+<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span> Home
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="counter">
+                <span class="oi oi-plus" aria-hidden="true"></span> Counter
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="fetchdata">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Fetch data
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="MustBeLoggedInToView">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Must Be Logged In
+            </NavLink>
+        </div>
     </nav>
 </div>
 

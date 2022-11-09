@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\3rdSEMESTER\\DNP\\Assigment 1 + 2\\Assigment1_2\\BlazorWASM\\BlazorWASM.csproj": {}
+    "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\BlazorWASM\\BlazorWASM.csproj": {}
   },
   "projects": {
-    "D:\\3rdSEMESTER\\DNP\\Assigment 1 + 2\\Assigment1_2\\BlazorWASM\\BlazorWASM.csproj": {
+    "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\BlazorWASM\\BlazorWASM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3rdSEMESTER\\DNP\\Assigment 1 + 2\\Assigment1_2\\BlazorWASM\\BlazorWASM.csproj",
+        "projectUniqueName": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\BlazorWASM\\BlazorWASM.csproj",
         "projectName": "BlazorWASM",
-        "projectPath": "D:\\3rdSEMESTER\\DNP\\Assigment 1 + 2\\Assigment1_2\\BlazorWASM\\BlazorWASM.csproj",
-        "packagesPath": "C:\\Users\\tstfa\\.nuget\\packages\\",
-        "outputPath": "D:\\3rdSEMESTER\\DNP\\Assigment 1 + 2\\Assigment1_2\\BlazorWASM\\obj\\",
+        "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\BlazorWASM\\BlazorWASM.csproj",
+        "packagesPath": "C:\\Users\\ancab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\BlazorWASM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tstfa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ancab\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\3rdSEMESTER\\DNP\\Assigment 1 + 2\\Assigment1_2\\HttpClient\\HttpClient.csproj": {
-                "projectPath": "D:\\3rdSEMESTER\\DNP\\Assigment 1 + 2\\Assigment1_2\\HttpClient\\HttpClient.csproj"
+              "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\HttpClient\\HttpClient.csproj": {
+                "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\HttpClient\\HttpClient.csproj"
               }
             }
           }
@@ -66,7 +66,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.8, 6.0.8]"
+              "version": "[6.0.9, 6.0.9]"
             }
           ],
           "frameworkReferences": {
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -83,17 +83,17 @@
         }
       }
     },
-    "D:\\3rdSEMESTER\\DNP\\Assigment 1 + 2\\Assigment1_2\\HttpClient\\HttpClient.csproj": {
+    "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\HttpClient\\HttpClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3rdSEMESTER\\DNP\\Assigment 1 + 2\\Assigment1_2\\HttpClient\\HttpClient.csproj",
+        "projectUniqueName": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\HttpClient\\HttpClient.csproj",
         "projectName": "HttpClient",
-        "projectPath": "D:\\3rdSEMESTER\\DNP\\Assigment 1 + 2\\Assigment1_2\\HttpClient\\HttpClient.csproj",
-        "packagesPath": "C:\\Users\\tstfa\\.nuget\\packages\\",
-        "outputPath": "D:\\3rdSEMESTER\\DNP\\Assigment 1 + 2\\Assigment1_2\\HttpClient\\obj\\",
+        "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\HttpClient\\HttpClient.csproj",
+        "packagesPath": "C:\\Users\\ancab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\HttpClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tstfa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ancab\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -105,8 +105,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\3rdSEMESTER\\DNP\\Assigment 1 + 2\\Assigment1_2\\Shared\\Shared.csproj": {
-                "projectPath": "D:\\3rdSEMESTER\\DNP\\Assigment 1 + 2\\Assigment1_2\\Shared\\Shared.csproj"
+              "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj"
               }
             }
           }
@@ -136,21 +136,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\3rdSEMESTER\\DNP\\Assigment 1 + 2\\Assigment1_2\\Shared\\Shared.csproj": {
+    "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3rdSEMESTER\\DNP\\Assigment 1 + 2\\Assigment1_2\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "D:\\3rdSEMESTER\\DNP\\Assigment 1 + 2\\Assigment1_2\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\tstfa\\.nuget\\packages\\",
-        "outputPath": "D:\\3rdSEMESTER\\DNP\\Assigment 1 + 2\\Assigment1_2\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\ancab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tstfa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ancab\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -199,7 +199,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
