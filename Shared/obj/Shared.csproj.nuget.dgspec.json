@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj": {}
+    "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj": {
+    "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\ancab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\obj\\",
+        "projectPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\berab\\.nuget\\packages\\",
+        "outputPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ancab\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\berab\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

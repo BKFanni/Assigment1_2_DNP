@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\BlazorWASM\\BlazorWASM.csproj": {}
+    "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\BlazorWASM\\BlazorWASM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\BlazorWASM\\BlazorWASM.csproj": {
+    "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\BlazorWASM\\BlazorWASM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\BlazorWASM\\BlazorWASM.csproj",
+        "projectUniqueName": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\BlazorWASM\\BlazorWASM.csproj",
         "projectName": "BlazorWASM",
-        "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\BlazorWASM\\BlazorWASM.csproj",
-        "packagesPath": "C:\\Users\\ancab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\BlazorWASM\\obj\\",
+        "projectPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\BlazorWASM\\BlazorWASM.csproj",
+        "packagesPath": "C:\\Users\\berab\\.nuget\\packages\\",
+        "outputPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\BlazorWASM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ancab\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\berab\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\HttpClient\\HttpClient.csproj": {
-                "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\HttpClient\\HttpClient.csproj"
+              "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\HttpClient\\HttpClient.csproj": {
+                "projectPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\HttpClient\\HttpClient.csproj"
               }
             }
           }
@@ -42,6 +42,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[6.0.8, )"
@@ -83,17 +91,17 @@
         }
       }
     },
-    "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\HttpClient\\HttpClient.csproj": {
+    "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\HttpClient\\HttpClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\HttpClient\\HttpClient.csproj",
+        "projectUniqueName": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\HttpClient\\HttpClient.csproj",
         "projectName": "HttpClient",
-        "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\HttpClient\\HttpClient.csproj",
-        "packagesPath": "C:\\Users\\ancab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\HttpClient\\obj\\",
+        "projectPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\HttpClient\\HttpClient.csproj",
+        "packagesPath": "C:\\Users\\berab\\.nuget\\packages\\",
+        "outputPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\HttpClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ancab\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\berab\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -105,8 +113,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj"
+              "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Shared\\Shared.csproj"
               }
             }
           }
@@ -140,17 +148,17 @@
         }
       }
     },
-    "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj": {
+    "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\ancab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\obj\\",
+        "projectPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\berab\\.nuget\\packages\\",
+        "outputPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ancab\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\berab\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

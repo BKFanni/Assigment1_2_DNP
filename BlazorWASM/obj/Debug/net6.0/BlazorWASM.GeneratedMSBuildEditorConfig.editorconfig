@@ -11,49 +11,61 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = BlazorWASM
 build_property.RootNamespace = BlazorWASM
-build_property.ProjectDir = C:\Users\ancab\RiderProjects\Assigment1_2_DNP\BlazorWASM\
+build_property.ProjectDir = C:\Denmark studies\3rd semester\DNP\Assignment1_2\BlazorWASM\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ancab\RiderProjects\Assigment1_2_DNP\BlazorWASM
+build_property.MSBuildProjectDirectory = C:\Denmark studies\3rd semester\DNP\Assignment1_2\BlazorWASM
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ancab/RiderProjects/Assigment1_2_DNP/BlazorWASM/App.razor]
+[C:/Denmark studies/3rd semester/DNP/Assignment1_2/BlazorWASM/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ancab/RiderProjects/Assigment1_2_DNP/BlazorWASM/Pages/Index.razor]
+[C:/Denmark studies/3rd semester/DNP/Assignment1_2/BlazorWASM/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ancab/RiderProjects/Assigment1_2_DNP/BlazorWASM/Pages/ViewPosts.razor]
+[C:/Denmark studies/3rd semester/DNP/Assignment1_2/BlazorWASM/Pages/MustBeLoggedInToView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVzdEJlTG9nZ2VkSW5Ub1ZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Denmark studies/3rd semester/DNP/Assignment1_2/BlazorWASM/Pages/ViewPosts.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1Bvc3RzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ancab/RiderProjects/Assigment1_2_DNP/BlazorWASM/Shared/SurveyPrompt.razor]
+[C:/Denmark studies/3rd semester/DNP/Assignment1_2/BlazorWASM/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ancab/RiderProjects/Assigment1_2_DNP/BlazorWASM/_Imports.razor]
+[C:/Denmark studies/3rd semester/DNP/Assignment1_2/BlazorWASM/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ancab/RiderProjects/Assigment1_2_DNP/BlazorWASM/Pages/CreatePost.razor]
+[C:/Denmark studies/3rd semester/DNP/Assignment1_2/BlazorWASM/Pages/CreatePost.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlUG9zdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-ceegisofnu
 
-[C:/Users/ancab/RiderProjects/Assigment1_2_DNP/BlazorWASM/Pages/CreateUser.razor]
+[C:/Denmark studies/3rd semester/DNP/Assignment1_2/BlazorWASM/Pages/CreateUser.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlVXNlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-lmj193ty0n
 
-[C:/Users/ancab/RiderProjects/Assigment1_2_DNP/BlazorWASM/Pages/ViewUsers.razor]
+[C:/Denmark studies/3rd semester/DNP/Assignment1_2/BlazorWASM/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-xm4hp2nt19
+
+[C:/Denmark studies/3rd semester/DNP/Assignment1_2/BlazorWASM/Pages/LoginButtons.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5CdXR0b25zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-7bsgaluun0
+
+[C:/Denmark studies/3rd semester/DNP/Assignment1_2/BlazorWASM/Pages/ViewUsers.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1VzZXJzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-b8bn5keb44
 
-[C:/Users/ancab/RiderProjects/Assigment1_2_DNP/BlazorWASM/Shared/MainLayout.razor]
+[C:/Denmark studies/3rd semester/DNP/Assignment1_2/BlazorWASM/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-jk00ermrez
 
-[C:/Users/ancab/RiderProjects/Assigment1_2_DNP/BlazorWASM/Shared/NavMenu.razor]
+[C:/Denmark studies/3rd semester/DNP/Assignment1_2/BlazorWASM/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-69rflur3ak

@@ -42,3 +42,47 @@ D:\3rdSEMESTER\DNP\Assigment 1 + 2\Assigment1_2\WebAPI\bin\Debug\net6.0\Microsof
 D:\3rdSEMESTER\DNP\Assigment 1 + 2\Assigment1_2\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\3rdSEMESTER\DNP\Assigment 1 + 2\Assigment1_2\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 D:\3rdSEMESTER\DNP\Assigment 1 + 2\Assigment1_2\WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\data.json
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\WebAPI.exe
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\WebAPI.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\Application.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\FileData.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\Shared.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\Application.pdb
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\FileData.pdb
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\bin\Debug\net6.0\Shared.pdb
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\obj\Debug\net6.0\WebAPI.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll

@@ -13,3 +13,18 @@ D:\3rdSEMESTER\DNP\Assigment 1 + 2\Assigment1_2\Application\obj\Debug\net6.0\App
 D:\3rdSEMESTER\DNP\Assigment 1 + 2\Assigment1_2\Application\obj\Debug\net6.0\refint\Application.dll
 D:\3rdSEMESTER\DNP\Assigment 1 + 2\Assigment1_2\Application\obj\Debug\net6.0\Application.pdb
 D:\3rdSEMESTER\DNP\Assigment 1 + 2\Assigment1_2\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\Application\bin\Debug\net6.0\Application.deps.json
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\Application\bin\Debug\net6.0\Application.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\Application\bin\Debug\net6.0\Application.pdb
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\Application\bin\Debug\net6.0\Shared.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\Application\bin\Debug\net6.0\Shared.pdb
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\Application\obj\Debug\net6.0\Application.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\Application\obj\Debug\net6.0\Application.pdb
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\Application\obj\Debug\net6.0\ref\Application.dll

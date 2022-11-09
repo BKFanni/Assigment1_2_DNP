@@ -15,3 +15,20 @@ D:\3rdSEMESTER\DNP\Assigment 1 + 2\Assigment1_2\FileData\obj\Debug\net6.0\FileDa
 D:\3rdSEMESTER\DNP\Assigment 1 + 2\Assigment1_2\FileData\obj\Debug\net6.0\refint\FileData.dll
 D:\3rdSEMESTER\DNP\Assigment 1 + 2\Assigment1_2\FileData\obj\Debug\net6.0\FileData.pdb
 D:\3rdSEMESTER\DNP\Assigment 1 + 2\Assigment1_2\FileData\obj\Debug\net6.0\ref\FileData.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\FileData\bin\Debug\net6.0\FileData.deps.json
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\FileData\bin\Debug\net6.0\FileData.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\FileData\bin\Debug\net6.0\FileData.pdb
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\FileData\bin\Debug\net6.0\Application.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\FileData\bin\Debug\net6.0\Shared.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\FileData\bin\Debug\net6.0\Application.pdb
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\FileData\bin\Debug\net6.0\Shared.pdb
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\FileData\obj\Debug\net6.0\FileData.csproj.AssemblyReference.cache
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\FileData\obj\Debug\net6.0\FileData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\FileData\obj\Debug\net6.0\FileData.AssemblyInfoInputs.cache
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\FileData\obj\Debug\net6.0\FileData.AssemblyInfo.cs
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\FileData\obj\Debug\net6.0\FileData.csproj.CoreCompileInputs.cache
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\FileData\obj\Debug\net6.0\FileData.csproj.CopyComplete
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\FileData\obj\Debug\net6.0\FileData.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\FileData\obj\Debug\net6.0\refint\FileData.dll
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\FileData\obj\Debug\net6.0\FileData.pdb
+C:\Denmark studies\3rd semester\DNP\Assignment1_2\FileData\obj\Debug\net6.0\ref\FileData.dll

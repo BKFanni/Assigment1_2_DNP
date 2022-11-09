@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Application\\Application.csproj": {
+    "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\ancab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Application\\obj\\",
+        "projectPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\berab\\.nuget\\packages\\",
+        "outputPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ancab\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\berab\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj"
+              "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Shared\\Shared.csproj"
               }
             }
           }
@@ -61,17 +61,17 @@
         }
       }
     },
-    "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\FileData\\FileData.csproj": {
+    "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\FileData\\FileData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\FileData\\FileData.csproj",
+        "projectUniqueName": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\FileData\\FileData.csproj",
         "projectName": "FileData",
-        "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\FileData\\FileData.csproj",
-        "packagesPath": "C:\\Users\\ancab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\FileData\\obj\\",
+        "projectPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\FileData\\FileData.csproj",
+        "packagesPath": "C:\\Users\\berab\\.nuget\\packages\\",
+        "outputPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\FileData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ancab\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\berab\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Application\\Application.csproj"
+              "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Application\\Application.csproj": {
+                "projectPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Application\\Application.csproj"
               }
             }
           }
@@ -118,17 +118,17 @@
         }
       }
     },
-    "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj": {
+    "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\ancab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Shared\\obj\\",
+        "projectPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\berab\\.nuget\\packages\\",
+        "outputPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ancab\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\berab\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -181,17 +181,17 @@
         }
       }
     },
-    "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\WebAPI\\WebAPI.csproj": {
+    "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\WebAPI\\WebAPI.csproj",
-        "packagesPath": "C:\\Users\\ancab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\WebAPI\\obj\\",
+        "projectPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\berab\\.nuget\\packages\\",
+        "outputPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ancab\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\berab\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -203,11 +203,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\Application\\Application.csproj"
+              "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Application\\Application.csproj": {
+                "projectPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\Application\\Application.csproj"
               },
-              "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\FileData\\FileData.csproj": {
-                "projectPath": "C:\\Users\\ancab\\RiderProjects\\Assigment1_2_DNP\\FileData\\FileData.csproj"
+              "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\FileData\\FileData.csproj": {
+                "projectPath": "C:\\Denmark studies\\3rd semester\\DNP\\Assignment1_2\\FileData\\FileData.csproj"
               }
             }
           }

@@ -7,18 +7,14 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="7.0.0" />
+        <PackageReference Include="Microsoft.AspNetCore.Components.Authorization" Version="6.0.8" />
         <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="6.0.8" />
         <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="6.0.8" PrivateAssets="all" />
     </ItemGroup>
 
     <ItemGroup>
       <ProjectReference Include="..\HttpClient\HttpClient.csproj" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <None Update="Pages\Login.razor.html">
-        <DependentUpon>Login.razor</DependentUpon>
-      </None>
     </ItemGroup>
 
 </Project>
